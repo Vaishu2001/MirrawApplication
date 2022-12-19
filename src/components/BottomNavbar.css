@@ -1,0 +1,30 @@
+.BottomNavbar{
+    margin-top: -0.7rem;
+}
+
+.list-main{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left:14rem;
+  }
+  
+  .list{
+  
+    float: left;
+    color:black;
+  }
+  
+  .list-link {
+    color:black;
+    margin-left: 10px;
+    text-decoration: none;
+    display: block;
+    padding: 7px;
+    font-weight:500;
+    /* background-color: #dddddd; */
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+     
+  }

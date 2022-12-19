@@ -1,0 +1,47 @@
+.product1{
+    width:20rem;
+    /* border: 1px solid black; */
+    height:40rem;
+}
+.product2{
+    width:60rem;
+    /* border: 1px solid black; */
+    height:20rem;
+}
+.product3{
+    width:40rem;
+    /* border: 1px solid black; */
+    height:rem;
+}
+.product4{
+    width:20rem;
+    height:20rem;
+}
+.products-main{
+    display: flex;
+    flex-direction: row;
+}
+.products-sub{
+    display: flex;
+    flex-direction: column;
+}
+
+.products-o-sub{
+    display:flex;
+    flex-direction: row;
+}
+img{
+    float: left;
+}
+.product2-image{
+    width:39rem;
+    height:20.2rem;
+}
+.product3_image{
+    width:10rem;
+    height:20rem;
+}
+.product4_image{
+    height: 19rem;
+    width:19rem ;
+}

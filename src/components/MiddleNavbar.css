@@ -1,0 +1,25 @@
+.mirrawLogo{
+background-repeat: no-repeat;
+float:left;
+display: inline;
+width:20rem;
+height:6rem;
+margin-top: -1.8rem;
+margin-left: -2rem;
+}
+.MiddleNavbar{
+    display: flex;
+}
+.searchIcon{
+    border:1px solid black;
+    height:3rem;
+    width:3rem;   
+}
+
+#searchBar{
+    width:35rem;
+    height:3rem;
+    padding-left: 1rem;
+    font-style: italic;
+    margin-left: 22rem;
+}

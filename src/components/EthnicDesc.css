@@ -1,0 +1,18 @@
+.EthnicDesc{
+    border: 1px solid rgba(16, 14, 14, 0.2);
+    border-width: thin;
+   
+    margin:2rem;
+    text-align: justify;
+    padding:2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h6{
+    font-size: 18px;
+    font-weight:bold;
+    font-family:sans-serif;
+    float: left;
+}
+.firstPara{
+    float: left;
+}

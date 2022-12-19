@@ -1,0 +1,59 @@
+
+.cart_item{
+    
+    width:8vw;
+    height:10vh;
+}
+.cart_body{
+    border:1px solid lightgrey;
+    padding:5px;
+}
+.cartIcon{
+    margin-left:1rem;
+    text-decoration: none;
+  }
+  .cartName{
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 6px;
+    margin-left: 0.5rem;
+    text-decoration: none;
+  }
+  .cart-first{
+    display:flex;
+  
+  }
+  .remove{
+    height:2rem;
+    width:5rem;
+    margin-left: 6rem;
+  }
+  .iPrice{
+    margin-left: 7.5rem;
+    margin-top: -1.2rem;
+  }
+  .iName{
+    margin-left: 1rem;
+    width:10rem;
+  }
+  .item-summary{
+    border:1px solid black;
+    text-align: center;
+    padding: 1rem;
+  }
+ .item-total{
+    display: flex;
+  margin-left: 9rem;
+ }
+ .item-total-price{
+    display: flex;
+  margin-left: 5.5rem;
+ }
+ .total{
+    margin-left: 3rem;
+ }
+ .placeOrder{
+    margin-top: 3rem;
+    margin-left: -11rem;
+    /* background-color:rgb(143,25,36); */
+ }

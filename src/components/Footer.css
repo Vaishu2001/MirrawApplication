@@ -1,0 +1,32 @@
+.shadow{
+    background-color:  rgb(143,25,36);
+    margin-left:-5rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+.head-footer-text{
+    color:white;
+    font-size:15px;
+}
+span{
+    color:white;
+    font-size: 13px;
+}
+.pressImages{
+    width:15rem;
+    margin-top: 3rem;
+    margin-left: -14rem;
+
+}
+.press-style{
+    padding:0.3rem
+}
+.press{
+    margin-left: 6rem;
+    color:white;
+    font-size:15px;
+    font-weight: bold
+}
+.text-center{
+   margin-left: 2rem;
+}
